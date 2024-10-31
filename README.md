@@ -1,4 +1,4 @@
-![Shadir's GitHub Banner]([https://pbs.twimg.com/profile_banners/1050818844770689024/1673953019/1500x500](https://www.tumblr.com/mini-moss/search/pixel%20art%20gif))
+![Shadir's GitHub Banner](https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif)
 <h1 align="center">Hi 👋, I'm Tran Kiet</h1>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
