@@ -1,6 +1,6 @@
 ![Shadir's GitHub Banner](https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif)
 <h1 align="center">Hi 👋, I'm Tran Kiet</h1>
-<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Golang and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trtkiet&label=Profile%20views&color=0e75b6&style=flat" alt="trtkiet" /> </p>
 
@@ -9,8 +9,6 @@
 - 💬 Ask me about **Competive programming, Machine learning and related technologies**
 
 - 📫 How to reach me **contact.trtkiet@gmail.com**
-
-- ⚡ Fun fact **I love football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
